@@ -5,7 +5,6 @@ import {
     AccordionTrigger,
   } from "@/components/ui/accordion"
   
-  import lami from "../assets/images/image1.jpg"
   export function CustomAccordion   () {
     return (
       <div className="w-full size">

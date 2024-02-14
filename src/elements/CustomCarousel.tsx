@@ -1,4 +1,4 @@
-import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from "@/components/ui/carousel";
+import { Carousel, CarouselContent, CarouselItem} from "@/components/ui/carousel";
 import { Card, CardContent } from "@/components/ui/card";
 import image1 from "../assets/images/image1.jpg"
 import image2 from "../assets/images/image2.jpg"
